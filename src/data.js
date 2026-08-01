@@ -88,7 +88,7 @@ export const projects = [
     challenge:
       'Efficient proximity search at scale required moving from naive distance calculations to indexed spatial queries, which meant learning PostGIS indexing strategies under time pressure.',
     stack: ['React', 'Node.js', 'Express.js', 'PostgreSQL', 'PostGIS'],
-    github: 'https://github.com/Sithishwar',
+    github: 'https://github.com/karusk22/Integrated-Agri',
     demo: null,
   },
   {
@@ -107,7 +107,7 @@ export const projects = [
     challenge:
       'Comparing genome sequences naively is expensive at scale; the engine needed structures purpose-built for approximate and exact sequence matching rather than brute-force comparison.',
     stack: ['C++', 'Data Structures', 'Algorithms'],
-    github: 'https://github.com/Sithishwar',
+    github: 'https://github.com/Sithishwar/genome',
     demo: null,
   },
   {
@@ -126,7 +126,7 @@ export const projects = [
     challenge:
       "UPI SMS formats vary widely across banks and payment apps, so the parser needed to generalize across formats rather than being hard-coded to one bank's template.",
     stack: ['React Native', 'SQLite', 'Regex'],
-    github: 'https://github.com/Sithishwar',
+    github: 'https://github.com/Sithishwar/SmartUPIExpenseTracker',
     demo: null,
   },
   {
@@ -145,7 +145,7 @@ export const projects = [
     challenge:
       'Real-time inference had to stay fast enough for a live feed while the LSTM layer needed enough temporal context to tell a genuine anomaly from normal crowd movement.',
     stack: ['React', 'Node.js', 'FastAPI', 'YOLO', 'LSTM', 'OpenCV', 'WebSockets'],
-    github: 'https://github.com/Sithishwar',
+    github: 'https://github.com/Sithishwar/Early_Risk_Detection',
     demo: null,
   },
 ]
@@ -160,7 +160,7 @@ export const moreProjects = [
     highlights: ['Machine Learning', 'TF-IDF Feature Engineering', 'Random Forest Classification', 'Code Similarity Detection'],
     builtWhat:
       'TF-IDF feature extraction for source-code representation, feeding a Random Forest classifier trained to separate plagiarized from original submissions.',
-    github: 'https://github.com/Sithishwar',
+    github: 'https://github.com/Sithishwar/Plagiarism-Checker',
     demo: null,
   },
   {
@@ -172,7 +172,7 @@ export const moreProjects = [
     highlights: ['xv6 Kernel Development', 'Process Synchronization', 'Custom System Calls', 'Operating Systems'],
     builtWhat:
       'Process synchronization, blocking, and wake-up mechanisms at the kernel level, working directly with xv6\'s scheduler and process management.',
-    github: 'https://github.com/Sithishwar',
+    github: 'https://github.com/Sithishwar/Schedulingalgo_xv6',
     demo: null,
   },
   {
@@ -184,7 +184,7 @@ export const moreProjects = [
     highlights: ['Data Structures', 'BST', 'Stack & Queue', 'Algorithm Design'],
     builtWhat:
       'A Binary Search Tree for fast element lookup, paired with stacks and queues for parsing and evaluating molecular expressions.',
-    github: 'https://github.com/Sithishwar',
+    github: 'ttps://github.com/Sithishwar/Periodic_elemets',
     demo: null,
   },
 ]
